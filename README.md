@@ -1,5 +1,5 @@
 # Agent-based modelling reveals the role of the tumour microenvironment on the short-term success of combination temozolomide/immune checkpoint blockade to treat glioblastoma
-Codes associated with the paper titled "Agent-based modelling reveals the role of the tumour microenvironment on the short-term success of combination temozolomide/immune checkpoint blockade to treat glioblastoma". The code is developed in the C++ based PhysiCell framework, an Open Source Physics-Based Cell Simulator for 3-D Multicellular systems.
+Codes associated with the paper titled "Agent-based modelling reveals the role of the tumour microenvironment on the short-term success of combination temozolomide/immune checkpoint blockade to treat glioblastoma". The code is developed in the C++ based PhysiCell framework, an open source physics-based cell simulator for 3-D multicellular systems.
 
 Reference: A Ghaffarizadeh, R Heiland, SH Friedman, SM Mumenthaler, and P Macklin, PhysiCell: an Open Source Physics-Based Cell Simulator for Multicellular Systems, PLoS Comput. Biol. 14(2): e1005991, 2018. DOI: 10.1371/journal.pcbi.1005991.
 
