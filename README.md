@@ -8,9 +8,9 @@ Visit http://physicell.org for the latest tutorials and help.
 
 Makefile rules to compile and run the code:
 
-make: compiles the current project. If no project has been defined, it first populates the cancer heterogeneity 2D sample project and compiles it
-
 make GBM-immune-TMZ: populates the PhysiCell environment with the GBM-immune-TMZ project. Use "make" to compile it. After the compilation, type .\project.exe to run the code.
+
+make: compiles the current project. If no project has been defined, it first populates the heterogeneity sample project.
 
 make clean: removes all .o files and the executable, so that the next "make" recompiles the entire project
 
