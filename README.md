@@ -3,7 +3,7 @@ Codes associated with the paper titled "Agent-based modelling reveals the role o
 
 Reference: A Ghaffarizadeh, R Heiland, SH Friedman, SM Mumenthaler, and P Macklin, PhysiCell: an Open Source Physics-Based Cell Simulator for Multicellular Systems, PLoS Comput. Biol. 14(2): e1005991, 2018. DOI: 10.1371/journal.pcbi.1005991.
 
-Visit http://physicell.org for the latest tutorials and help.
+Visit http://physicell.org for the installation guide, latest tutorials and help.
 
 
 Makefile rules to compile and run the code:
